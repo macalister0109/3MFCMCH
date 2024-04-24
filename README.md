@@ -1,5 +1,5 @@
 # 3MFCMCH
-Repositorio del curso 3MF del colegio Marcelino Champagnat de la pintana
+Repositorio del curso 3MF del colegio Marcelino Champagnat de La Pintana
 
 
 
